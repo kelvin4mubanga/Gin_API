@@ -1,6 +1,4 @@
-
-
-A RESTful API built with Golang Gin providing robust features for managing subscriptions and billing plans.
+A RESTful API built with **Golang Gin** providing robust features for managing blogs and articles.
 
 ## 🚀 Features
 - Full CRUD operations
@@ -22,7 +20,7 @@ A RESTful API built with Golang Gin providing robust features for managing subsc
 ```bash
 git clone https://github.com/kelvin4mubanga/Gin_API.git
 cd Gin_API
-cd Subscription_Api
+cd Tracel_Booking_Api
 ```
 
 ### Run with Docker
